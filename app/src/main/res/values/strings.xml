@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Register SQLi</string>
+    <string name="lblRegister">Register</string>
+    <string name="lblLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="txtUser">Username</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtPwd1">Password</string>
+    <string name="txtPwd2">Confirm Password</string>
+    <string name="lblWelcome">Welcome, </string>
+    <string name="lblSignUp">Sign Up</string>
+    <string name="lblSignIn">Sign in to Continue</string>
+    <string name="txtUserEmail">User or Email</string>
+    <string name="btnLogin">Login</string>
+</resources>

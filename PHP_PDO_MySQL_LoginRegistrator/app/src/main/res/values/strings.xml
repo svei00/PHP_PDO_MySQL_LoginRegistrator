@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PHP</string>
+    <string name="lblRegister">Register</string>
+    <string name="lblLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="txtUser">Username</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtPwd1">Password</string>
+    <string name="txtPwd2">Confirm Password</string>
+</resources>
